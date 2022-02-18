@@ -1,0 +1,16 @@
+C:\Users\Lenovo\source\repos\Vucut Kitle Indeksi\Vucut Kitle Indeksi\bin\Debug\net5.0\Vucut Kitle Indeksi.exe
+C:\Users\Lenovo\source\repos\Vucut Kitle Indeksi\Vucut Kitle Indeksi\bin\Debug\net5.0\Vucut Kitle Indeksi.deps.json
+C:\Users\Lenovo\source\repos\Vucut Kitle Indeksi\Vucut Kitle Indeksi\bin\Debug\net5.0\Vucut Kitle Indeksi.runtimeconfig.json
+C:\Users\Lenovo\source\repos\Vucut Kitle Indeksi\Vucut Kitle Indeksi\bin\Debug\net5.0\Vucut Kitle Indeksi.runtimeconfig.dev.json
+C:\Users\Lenovo\source\repos\Vucut Kitle Indeksi\Vucut Kitle Indeksi\bin\Debug\net5.0\Vucut Kitle Indeksi.dll
+C:\Users\Lenovo\source\repos\Vucut Kitle Indeksi\Vucut Kitle Indeksi\bin\Debug\net5.0\ref\Vucut Kitle Indeksi.dll
+C:\Users\Lenovo\source\repos\Vucut Kitle Indeksi\Vucut Kitle Indeksi\bin\Debug\net5.0\Vucut Kitle Indeksi.pdb
+C:\Users\Lenovo\source\repos\Vucut Kitle Indeksi\Vucut Kitle Indeksi\obj\Debug\net5.0\Vucut Kitle Indeksi.csproj.AssemblyReference.cache
+C:\Users\Lenovo\source\repos\Vucut Kitle Indeksi\Vucut Kitle Indeksi\obj\Debug\net5.0\Vucut Kitle Indeksi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\source\repos\Vucut Kitle Indeksi\Vucut Kitle Indeksi\obj\Debug\net5.0\Vucut Kitle Indeksi.AssemblyInfoInputs.cache
+C:\Users\Lenovo\source\repos\Vucut Kitle Indeksi\Vucut Kitle Indeksi\obj\Debug\net5.0\Vucut Kitle Indeksi.AssemblyInfo.cs
+C:\Users\Lenovo\source\repos\Vucut Kitle Indeksi\Vucut Kitle Indeksi\obj\Debug\net5.0\Vucut Kitle Indeksi.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\Vucut Kitle Indeksi\Vucut Kitle Indeksi\obj\Debug\net5.0\Vucut Kitle Indeksi.dll
+C:\Users\Lenovo\source\repos\Vucut Kitle Indeksi\Vucut Kitle Indeksi\obj\Debug\net5.0\ref\Vucut Kitle Indeksi.dll
+C:\Users\Lenovo\source\repos\Vucut Kitle Indeksi\Vucut Kitle Indeksi\obj\Debug\net5.0\Vucut Kitle Indeksi.pdb
+C:\Users\Lenovo\source\repos\Vucut Kitle Indeksi\Vucut Kitle Indeksi\obj\Debug\net5.0\Vucut Kitle Indeksi.genruntimeconfig.cache
