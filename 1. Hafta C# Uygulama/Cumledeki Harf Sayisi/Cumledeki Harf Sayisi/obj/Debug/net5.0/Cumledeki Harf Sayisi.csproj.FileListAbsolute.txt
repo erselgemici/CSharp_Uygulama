@@ -1,0 +1,16 @@
+C:\Users\Lenovo\source\repos\Cumledeki Harf Sayisi\Cumledeki Harf Sayisi\bin\Debug\net5.0\Cumledeki Harf Sayisi.exe
+C:\Users\Lenovo\source\repos\Cumledeki Harf Sayisi\Cumledeki Harf Sayisi\bin\Debug\net5.0\Cumledeki Harf Sayisi.deps.json
+C:\Users\Lenovo\source\repos\Cumledeki Harf Sayisi\Cumledeki Harf Sayisi\bin\Debug\net5.0\Cumledeki Harf Sayisi.runtimeconfig.json
+C:\Users\Lenovo\source\repos\Cumledeki Harf Sayisi\Cumledeki Harf Sayisi\bin\Debug\net5.0\Cumledeki Harf Sayisi.runtimeconfig.dev.json
+C:\Users\Lenovo\source\repos\Cumledeki Harf Sayisi\Cumledeki Harf Sayisi\bin\Debug\net5.0\Cumledeki Harf Sayisi.dll
+C:\Users\Lenovo\source\repos\Cumledeki Harf Sayisi\Cumledeki Harf Sayisi\bin\Debug\net5.0\ref\Cumledeki Harf Sayisi.dll
+C:\Users\Lenovo\source\repos\Cumledeki Harf Sayisi\Cumledeki Harf Sayisi\bin\Debug\net5.0\Cumledeki Harf Sayisi.pdb
+C:\Users\Lenovo\source\repos\Cumledeki Harf Sayisi\Cumledeki Harf Sayisi\obj\Debug\net5.0\Cumledeki Harf Sayisi.csproj.AssemblyReference.cache
+C:\Users\Lenovo\source\repos\Cumledeki Harf Sayisi\Cumledeki Harf Sayisi\obj\Debug\net5.0\Cumledeki Harf Sayisi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\source\repos\Cumledeki Harf Sayisi\Cumledeki Harf Sayisi\obj\Debug\net5.0\Cumledeki Harf Sayisi.AssemblyInfoInputs.cache
+C:\Users\Lenovo\source\repos\Cumledeki Harf Sayisi\Cumledeki Harf Sayisi\obj\Debug\net5.0\Cumledeki Harf Sayisi.AssemblyInfo.cs
+C:\Users\Lenovo\source\repos\Cumledeki Harf Sayisi\Cumledeki Harf Sayisi\obj\Debug\net5.0\Cumledeki Harf Sayisi.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\Cumledeki Harf Sayisi\Cumledeki Harf Sayisi\obj\Debug\net5.0\Cumledeki Harf Sayisi.dll
+C:\Users\Lenovo\source\repos\Cumledeki Harf Sayisi\Cumledeki Harf Sayisi\obj\Debug\net5.0\ref\Cumledeki Harf Sayisi.dll
+C:\Users\Lenovo\source\repos\Cumledeki Harf Sayisi\Cumledeki Harf Sayisi\obj\Debug\net5.0\Cumledeki Harf Sayisi.pdb
+C:\Users\Lenovo\source\repos\Cumledeki Harf Sayisi\Cumledeki Harf Sayisi\obj\Debug\net5.0\Cumledeki Harf Sayisi.genruntimeconfig.cache
