@@ -1,0 +1,16 @@
+C:\Users\Lenovo\source\repos\Dikdörtegenin Alanı ve Cevresi\Dikdörtegenin Alanı ve Cevresi\bin\Debug\net5.0\Dikdörtegenin Alanı ve Cevresi.exe
+C:\Users\Lenovo\source\repos\Dikdörtegenin Alanı ve Cevresi\Dikdörtegenin Alanı ve Cevresi\bin\Debug\net5.0\Dikdörtegenin Alanı ve Cevresi.deps.json
+C:\Users\Lenovo\source\repos\Dikdörtegenin Alanı ve Cevresi\Dikdörtegenin Alanı ve Cevresi\bin\Debug\net5.0\Dikdörtegenin Alanı ve Cevresi.runtimeconfig.json
+C:\Users\Lenovo\source\repos\Dikdörtegenin Alanı ve Cevresi\Dikdörtegenin Alanı ve Cevresi\bin\Debug\net5.0\Dikdörtegenin Alanı ve Cevresi.runtimeconfig.dev.json
+C:\Users\Lenovo\source\repos\Dikdörtegenin Alanı ve Cevresi\Dikdörtegenin Alanı ve Cevresi\bin\Debug\net5.0\Dikdörtegenin Alanı ve Cevresi.dll
+C:\Users\Lenovo\source\repos\Dikdörtegenin Alanı ve Cevresi\Dikdörtegenin Alanı ve Cevresi\bin\Debug\net5.0\ref\Dikdörtegenin Alanı ve Cevresi.dll
+C:\Users\Lenovo\source\repos\Dikdörtegenin Alanı ve Cevresi\Dikdörtegenin Alanı ve Cevresi\bin\Debug\net5.0\Dikdörtegenin Alanı ve Cevresi.pdb
+C:\Users\Lenovo\source\repos\Dikdörtegenin Alanı ve Cevresi\Dikdörtegenin Alanı ve Cevresi\obj\Debug\net5.0\Dikdörtegenin Alanı ve Cevresi.csproj.AssemblyReference.cache
+C:\Users\Lenovo\source\repos\Dikdörtegenin Alanı ve Cevresi\Dikdörtegenin Alanı ve Cevresi\obj\Debug\net5.0\Dikdörtegenin Alanı ve Cevresi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\source\repos\Dikdörtegenin Alanı ve Cevresi\Dikdörtegenin Alanı ve Cevresi\obj\Debug\net5.0\Dikdörtegenin Alanı ve Cevresi.AssemblyInfoInputs.cache
+C:\Users\Lenovo\source\repos\Dikdörtegenin Alanı ve Cevresi\Dikdörtegenin Alanı ve Cevresi\obj\Debug\net5.0\Dikdörtegenin Alanı ve Cevresi.AssemblyInfo.cs
+C:\Users\Lenovo\source\repos\Dikdörtegenin Alanı ve Cevresi\Dikdörtegenin Alanı ve Cevresi\obj\Debug\net5.0\Dikdörtegenin Alanı ve Cevresi.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\Dikdörtegenin Alanı ve Cevresi\Dikdörtegenin Alanı ve Cevresi\obj\Debug\net5.0\Dikdörtegenin Alanı ve Cevresi.dll
+C:\Users\Lenovo\source\repos\Dikdörtegenin Alanı ve Cevresi\Dikdörtegenin Alanı ve Cevresi\obj\Debug\net5.0\ref\Dikdörtegenin Alanı ve Cevresi.dll
+C:\Users\Lenovo\source\repos\Dikdörtegenin Alanı ve Cevresi\Dikdörtegenin Alanı ve Cevresi\obj\Debug\net5.0\Dikdörtegenin Alanı ve Cevresi.pdb
+C:\Users\Lenovo\source\repos\Dikdörtegenin Alanı ve Cevresi\Dikdörtegenin Alanı ve Cevresi\obj\Debug\net5.0\Dikdörtegenin Alanı ve Cevresi.genruntimeconfig.cache
