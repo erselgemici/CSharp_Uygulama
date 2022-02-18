@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Girilen sayi 0-100 arasi mi/1.0.0": {
+        "runtime": {
+          "Girilen sayi 0-100 arasi mi.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Girilen sayi 0-100 arasi mi/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

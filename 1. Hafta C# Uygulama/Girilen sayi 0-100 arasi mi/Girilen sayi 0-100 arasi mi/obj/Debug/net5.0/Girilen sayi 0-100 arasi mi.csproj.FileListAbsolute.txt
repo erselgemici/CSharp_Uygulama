@@ -1,0 +1,16 @@
+C:\Users\Lenovo\source\repos\Girilen sayi 0-100 arasi mi\Girilen sayi 0-100 arasi mi\bin\Debug\net5.0\Girilen sayi 0-100 arasi mi.exe
+C:\Users\Lenovo\source\repos\Girilen sayi 0-100 arasi mi\Girilen sayi 0-100 arasi mi\bin\Debug\net5.0\Girilen sayi 0-100 arasi mi.deps.json
+C:\Users\Lenovo\source\repos\Girilen sayi 0-100 arasi mi\Girilen sayi 0-100 arasi mi\bin\Debug\net5.0\Girilen sayi 0-100 arasi mi.runtimeconfig.json
+C:\Users\Lenovo\source\repos\Girilen sayi 0-100 arasi mi\Girilen sayi 0-100 arasi mi\bin\Debug\net5.0\Girilen sayi 0-100 arasi mi.runtimeconfig.dev.json
+C:\Users\Lenovo\source\repos\Girilen sayi 0-100 arasi mi\Girilen sayi 0-100 arasi mi\bin\Debug\net5.0\Girilen sayi 0-100 arasi mi.dll
+C:\Users\Lenovo\source\repos\Girilen sayi 0-100 arasi mi\Girilen sayi 0-100 arasi mi\bin\Debug\net5.0\ref\Girilen sayi 0-100 arasi mi.dll
+C:\Users\Lenovo\source\repos\Girilen sayi 0-100 arasi mi\Girilen sayi 0-100 arasi mi\bin\Debug\net5.0\Girilen sayi 0-100 arasi mi.pdb
+C:\Users\Lenovo\source\repos\Girilen sayi 0-100 arasi mi\Girilen sayi 0-100 arasi mi\obj\Debug\net5.0\Girilen sayi 0-100 arasi mi.csproj.AssemblyReference.cache
+C:\Users\Lenovo\source\repos\Girilen sayi 0-100 arasi mi\Girilen sayi 0-100 arasi mi\obj\Debug\net5.0\Girilen sayi 0-100 arasi mi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\source\repos\Girilen sayi 0-100 arasi mi\Girilen sayi 0-100 arasi mi\obj\Debug\net5.0\Girilen sayi 0-100 arasi mi.AssemblyInfoInputs.cache
+C:\Users\Lenovo\source\repos\Girilen sayi 0-100 arasi mi\Girilen sayi 0-100 arasi mi\obj\Debug\net5.0\Girilen sayi 0-100 arasi mi.AssemblyInfo.cs
+C:\Users\Lenovo\source\repos\Girilen sayi 0-100 arasi mi\Girilen sayi 0-100 arasi mi\obj\Debug\net5.0\Girilen sayi 0-100 arasi mi.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\Girilen sayi 0-100 arasi mi\Girilen sayi 0-100 arasi mi\obj\Debug\net5.0\Girilen sayi 0-100 arasi mi.dll
+C:\Users\Lenovo\source\repos\Girilen sayi 0-100 arasi mi\Girilen sayi 0-100 arasi mi\obj\Debug\net5.0\ref\Girilen sayi 0-100 arasi mi.dll
+C:\Users\Lenovo\source\repos\Girilen sayi 0-100 arasi mi\Girilen sayi 0-100 arasi mi\obj\Debug\net5.0\Girilen sayi 0-100 arasi mi.pdb
+C:\Users\Lenovo\source\repos\Girilen sayi 0-100 arasi mi\Girilen sayi 0-100 arasi mi\obj\Debug\net5.0\Girilen sayi 0-100 arasi mi.genruntimeconfig.cache
