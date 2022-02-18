@@ -1,0 +1,16 @@
+C:\Users\Lenovo\source\repos\Ad Soyad Giris\Ad Soyad Giris\bin\Debug\net5.0\Ad Soyad Giris.exe
+C:\Users\Lenovo\source\repos\Ad Soyad Giris\Ad Soyad Giris\bin\Debug\net5.0\Ad Soyad Giris.deps.json
+C:\Users\Lenovo\source\repos\Ad Soyad Giris\Ad Soyad Giris\bin\Debug\net5.0\Ad Soyad Giris.runtimeconfig.json
+C:\Users\Lenovo\source\repos\Ad Soyad Giris\Ad Soyad Giris\bin\Debug\net5.0\Ad Soyad Giris.runtimeconfig.dev.json
+C:\Users\Lenovo\source\repos\Ad Soyad Giris\Ad Soyad Giris\bin\Debug\net5.0\Ad Soyad Giris.dll
+C:\Users\Lenovo\source\repos\Ad Soyad Giris\Ad Soyad Giris\bin\Debug\net5.0\ref\Ad Soyad Giris.dll
+C:\Users\Lenovo\source\repos\Ad Soyad Giris\Ad Soyad Giris\bin\Debug\net5.0\Ad Soyad Giris.pdb
+C:\Users\Lenovo\source\repos\Ad Soyad Giris\Ad Soyad Giris\obj\Debug\net5.0\Ad Soyad Giris.csproj.AssemblyReference.cache
+C:\Users\Lenovo\source\repos\Ad Soyad Giris\Ad Soyad Giris\obj\Debug\net5.0\Ad Soyad Giris.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\source\repos\Ad Soyad Giris\Ad Soyad Giris\obj\Debug\net5.0\Ad Soyad Giris.AssemblyInfoInputs.cache
+C:\Users\Lenovo\source\repos\Ad Soyad Giris\Ad Soyad Giris\obj\Debug\net5.0\Ad Soyad Giris.AssemblyInfo.cs
+C:\Users\Lenovo\source\repos\Ad Soyad Giris\Ad Soyad Giris\obj\Debug\net5.0\Ad Soyad Giris.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\Ad Soyad Giris\Ad Soyad Giris\obj\Debug\net5.0\Ad Soyad Giris.dll
+C:\Users\Lenovo\source\repos\Ad Soyad Giris\Ad Soyad Giris\obj\Debug\net5.0\ref\Ad Soyad Giris.dll
+C:\Users\Lenovo\source\repos\Ad Soyad Giris\Ad Soyad Giris\obj\Debug\net5.0\Ad Soyad Giris.pdb
+C:\Users\Lenovo\source\repos\Ad Soyad Giris\Ad Soyad Giris\obj\Debug\net5.0\Ad Soyad Giris.genruntimeconfig.cache
