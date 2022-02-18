@@ -1,0 +1,16 @@
+C:\Users\Lenovo\source\repos\Iki Sayinin Toplami\Iki Sayinin Toplami\bin\Debug\net5.0\Iki Sayinin Toplami.exe
+C:\Users\Lenovo\source\repos\Iki Sayinin Toplami\Iki Sayinin Toplami\bin\Debug\net5.0\Iki Sayinin Toplami.deps.json
+C:\Users\Lenovo\source\repos\Iki Sayinin Toplami\Iki Sayinin Toplami\bin\Debug\net5.0\Iki Sayinin Toplami.runtimeconfig.json
+C:\Users\Lenovo\source\repos\Iki Sayinin Toplami\Iki Sayinin Toplami\bin\Debug\net5.0\Iki Sayinin Toplami.runtimeconfig.dev.json
+C:\Users\Lenovo\source\repos\Iki Sayinin Toplami\Iki Sayinin Toplami\bin\Debug\net5.0\Iki Sayinin Toplami.dll
+C:\Users\Lenovo\source\repos\Iki Sayinin Toplami\Iki Sayinin Toplami\bin\Debug\net5.0\ref\Iki Sayinin Toplami.dll
+C:\Users\Lenovo\source\repos\Iki Sayinin Toplami\Iki Sayinin Toplami\bin\Debug\net5.0\Iki Sayinin Toplami.pdb
+C:\Users\Lenovo\source\repos\Iki Sayinin Toplami\Iki Sayinin Toplami\obj\Debug\net5.0\Iki Sayinin Toplami.csproj.AssemblyReference.cache
+C:\Users\Lenovo\source\repos\Iki Sayinin Toplami\Iki Sayinin Toplami\obj\Debug\net5.0\Iki Sayinin Toplami.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\source\repos\Iki Sayinin Toplami\Iki Sayinin Toplami\obj\Debug\net5.0\Iki Sayinin Toplami.AssemblyInfoInputs.cache
+C:\Users\Lenovo\source\repos\Iki Sayinin Toplami\Iki Sayinin Toplami\obj\Debug\net5.0\Iki Sayinin Toplami.AssemblyInfo.cs
+C:\Users\Lenovo\source\repos\Iki Sayinin Toplami\Iki Sayinin Toplami\obj\Debug\net5.0\Iki Sayinin Toplami.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\Iki Sayinin Toplami\Iki Sayinin Toplami\obj\Debug\net5.0\Iki Sayinin Toplami.dll
+C:\Users\Lenovo\source\repos\Iki Sayinin Toplami\Iki Sayinin Toplami\obj\Debug\net5.0\ref\Iki Sayinin Toplami.dll
+C:\Users\Lenovo\source\repos\Iki Sayinin Toplami\Iki Sayinin Toplami\obj\Debug\net5.0\Iki Sayinin Toplami.pdb
+C:\Users\Lenovo\source\repos\Iki Sayinin Toplami\Iki Sayinin Toplami\obj\Debug\net5.0\Iki Sayinin Toplami.genruntimeconfig.cache
