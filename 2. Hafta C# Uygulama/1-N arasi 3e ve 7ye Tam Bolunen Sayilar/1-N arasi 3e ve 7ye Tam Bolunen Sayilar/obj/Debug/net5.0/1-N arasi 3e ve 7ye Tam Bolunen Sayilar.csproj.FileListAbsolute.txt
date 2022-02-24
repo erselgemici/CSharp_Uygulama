@@ -1,0 +1,16 @@
+C:\Users\Lenovo\source\repos\1-N arasi 3e ve 7ye Tam Bolunen Sayilar\1-N arasi 3e ve 7ye Tam Bolunen Sayilar\bin\Debug\net5.0\1-N arasi 3e ve 7ye Tam Bolunen Sayilar.exe
+C:\Users\Lenovo\source\repos\1-N arasi 3e ve 7ye Tam Bolunen Sayilar\1-N arasi 3e ve 7ye Tam Bolunen Sayilar\bin\Debug\net5.0\1-N arasi 3e ve 7ye Tam Bolunen Sayilar.deps.json
+C:\Users\Lenovo\source\repos\1-N arasi 3e ve 7ye Tam Bolunen Sayilar\1-N arasi 3e ve 7ye Tam Bolunen Sayilar\bin\Debug\net5.0\1-N arasi 3e ve 7ye Tam Bolunen Sayilar.runtimeconfig.json
+C:\Users\Lenovo\source\repos\1-N arasi 3e ve 7ye Tam Bolunen Sayilar\1-N arasi 3e ve 7ye Tam Bolunen Sayilar\bin\Debug\net5.0\1-N arasi 3e ve 7ye Tam Bolunen Sayilar.runtimeconfig.dev.json
+C:\Users\Lenovo\source\repos\1-N arasi 3e ve 7ye Tam Bolunen Sayilar\1-N arasi 3e ve 7ye Tam Bolunen Sayilar\bin\Debug\net5.0\1-N arasi 3e ve 7ye Tam Bolunen Sayilar.dll
+C:\Users\Lenovo\source\repos\1-N arasi 3e ve 7ye Tam Bolunen Sayilar\1-N arasi 3e ve 7ye Tam Bolunen Sayilar\bin\Debug\net5.0\ref\1-N arasi 3e ve 7ye Tam Bolunen Sayilar.dll
+C:\Users\Lenovo\source\repos\1-N arasi 3e ve 7ye Tam Bolunen Sayilar\1-N arasi 3e ve 7ye Tam Bolunen Sayilar\bin\Debug\net5.0\1-N arasi 3e ve 7ye Tam Bolunen Sayilar.pdb
+C:\Users\Lenovo\source\repos\1-N arasi 3e ve 7ye Tam Bolunen Sayilar\1-N arasi 3e ve 7ye Tam Bolunen Sayilar\obj\Debug\net5.0\1-N arasi 3e ve 7ye Tam Bolunen Sayilar.csproj.AssemblyReference.cache
+C:\Users\Lenovo\source\repos\1-N arasi 3e ve 7ye Tam Bolunen Sayilar\1-N arasi 3e ve 7ye Tam Bolunen Sayilar\obj\Debug\net5.0\1-N arasi 3e ve 7ye Tam Bolunen Sayilar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\source\repos\1-N arasi 3e ve 7ye Tam Bolunen Sayilar\1-N arasi 3e ve 7ye Tam Bolunen Sayilar\obj\Debug\net5.0\1-N arasi 3e ve 7ye Tam Bolunen Sayilar.AssemblyInfoInputs.cache
+C:\Users\Lenovo\source\repos\1-N arasi 3e ve 7ye Tam Bolunen Sayilar\1-N arasi 3e ve 7ye Tam Bolunen Sayilar\obj\Debug\net5.0\1-N arasi 3e ve 7ye Tam Bolunen Sayilar.AssemblyInfo.cs
+C:\Users\Lenovo\source\repos\1-N arasi 3e ve 7ye Tam Bolunen Sayilar\1-N arasi 3e ve 7ye Tam Bolunen Sayilar\obj\Debug\net5.0\1-N arasi 3e ve 7ye Tam Bolunen Sayilar.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\1-N arasi 3e ve 7ye Tam Bolunen Sayilar\1-N arasi 3e ve 7ye Tam Bolunen Sayilar\obj\Debug\net5.0\1-N arasi 3e ve 7ye Tam Bolunen Sayilar.dll
+C:\Users\Lenovo\source\repos\1-N arasi 3e ve 7ye Tam Bolunen Sayilar\1-N arasi 3e ve 7ye Tam Bolunen Sayilar\obj\Debug\net5.0\ref\1-N arasi 3e ve 7ye Tam Bolunen Sayilar.dll
+C:\Users\Lenovo\source\repos\1-N arasi 3e ve 7ye Tam Bolunen Sayilar\1-N arasi 3e ve 7ye Tam Bolunen Sayilar\obj\Debug\net5.0\1-N arasi 3e ve 7ye Tam Bolunen Sayilar.pdb
+C:\Users\Lenovo\source\repos\1-N arasi 3e ve 7ye Tam Bolunen Sayilar\1-N arasi 3e ve 7ye Tam Bolunen Sayilar\obj\Debug\net5.0\1-N arasi 3e ve 7ye Tam Bolunen Sayilar.genruntimeconfig.cache
