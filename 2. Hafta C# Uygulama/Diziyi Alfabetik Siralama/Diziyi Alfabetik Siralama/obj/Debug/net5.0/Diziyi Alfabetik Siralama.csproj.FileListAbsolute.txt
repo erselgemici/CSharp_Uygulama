@@ -1,0 +1,16 @@
+C:\Users\Lenovo\source\repos\Diziyi Alfabetik Siralama\Diziyi Alfabetik Siralama\bin\Debug\net5.0\Diziyi Alfabetik Siralama.exe
+C:\Users\Lenovo\source\repos\Diziyi Alfabetik Siralama\Diziyi Alfabetik Siralama\bin\Debug\net5.0\Diziyi Alfabetik Siralama.deps.json
+C:\Users\Lenovo\source\repos\Diziyi Alfabetik Siralama\Diziyi Alfabetik Siralama\bin\Debug\net5.0\Diziyi Alfabetik Siralama.runtimeconfig.json
+C:\Users\Lenovo\source\repos\Diziyi Alfabetik Siralama\Diziyi Alfabetik Siralama\bin\Debug\net5.0\Diziyi Alfabetik Siralama.runtimeconfig.dev.json
+C:\Users\Lenovo\source\repos\Diziyi Alfabetik Siralama\Diziyi Alfabetik Siralama\bin\Debug\net5.0\Diziyi Alfabetik Siralama.dll
+C:\Users\Lenovo\source\repos\Diziyi Alfabetik Siralama\Diziyi Alfabetik Siralama\bin\Debug\net5.0\ref\Diziyi Alfabetik Siralama.dll
+C:\Users\Lenovo\source\repos\Diziyi Alfabetik Siralama\Diziyi Alfabetik Siralama\bin\Debug\net5.0\Diziyi Alfabetik Siralama.pdb
+C:\Users\Lenovo\source\repos\Diziyi Alfabetik Siralama\Diziyi Alfabetik Siralama\obj\Debug\net5.0\Diziyi Alfabetik Siralama.csproj.AssemblyReference.cache
+C:\Users\Lenovo\source\repos\Diziyi Alfabetik Siralama\Diziyi Alfabetik Siralama\obj\Debug\net5.0\Diziyi Alfabetik Siralama.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\source\repos\Diziyi Alfabetik Siralama\Diziyi Alfabetik Siralama\obj\Debug\net5.0\Diziyi Alfabetik Siralama.AssemblyInfoInputs.cache
+C:\Users\Lenovo\source\repos\Diziyi Alfabetik Siralama\Diziyi Alfabetik Siralama\obj\Debug\net5.0\Diziyi Alfabetik Siralama.AssemblyInfo.cs
+C:\Users\Lenovo\source\repos\Diziyi Alfabetik Siralama\Diziyi Alfabetik Siralama\obj\Debug\net5.0\Diziyi Alfabetik Siralama.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\Diziyi Alfabetik Siralama\Diziyi Alfabetik Siralama\obj\Debug\net5.0\Diziyi Alfabetik Siralama.dll
+C:\Users\Lenovo\source\repos\Diziyi Alfabetik Siralama\Diziyi Alfabetik Siralama\obj\Debug\net5.0\ref\Diziyi Alfabetik Siralama.dll
+C:\Users\Lenovo\source\repos\Diziyi Alfabetik Siralama\Diziyi Alfabetik Siralama\obj\Debug\net5.0\Diziyi Alfabetik Siralama.pdb
+C:\Users\Lenovo\source\repos\Diziyi Alfabetik Siralama\Diziyi Alfabetik Siralama\obj\Debug\net5.0\Diziyi Alfabetik Siralama.genruntimeconfig.cache
