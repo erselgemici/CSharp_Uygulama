@@ -1,0 +1,16 @@
+C:\Users\Lenovo\source\repos\Asal Sayi Listeleme\Asal Sayi Listeleme\bin\Debug\net5.0\Asal Sayi Listeleme.exe
+C:\Users\Lenovo\source\repos\Asal Sayi Listeleme\Asal Sayi Listeleme\bin\Debug\net5.0\Asal Sayi Listeleme.deps.json
+C:\Users\Lenovo\source\repos\Asal Sayi Listeleme\Asal Sayi Listeleme\bin\Debug\net5.0\Asal Sayi Listeleme.runtimeconfig.json
+C:\Users\Lenovo\source\repos\Asal Sayi Listeleme\Asal Sayi Listeleme\bin\Debug\net5.0\Asal Sayi Listeleme.runtimeconfig.dev.json
+C:\Users\Lenovo\source\repos\Asal Sayi Listeleme\Asal Sayi Listeleme\bin\Debug\net5.0\Asal Sayi Listeleme.dll
+C:\Users\Lenovo\source\repos\Asal Sayi Listeleme\Asal Sayi Listeleme\bin\Debug\net5.0\ref\Asal Sayi Listeleme.dll
+C:\Users\Lenovo\source\repos\Asal Sayi Listeleme\Asal Sayi Listeleme\bin\Debug\net5.0\Asal Sayi Listeleme.pdb
+C:\Users\Lenovo\source\repos\Asal Sayi Listeleme\Asal Sayi Listeleme\obj\Debug\net5.0\Asal Sayi Listeleme.csproj.AssemblyReference.cache
+C:\Users\Lenovo\source\repos\Asal Sayi Listeleme\Asal Sayi Listeleme\obj\Debug\net5.0\Asal Sayi Listeleme.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\source\repos\Asal Sayi Listeleme\Asal Sayi Listeleme\obj\Debug\net5.0\Asal Sayi Listeleme.AssemblyInfoInputs.cache
+C:\Users\Lenovo\source\repos\Asal Sayi Listeleme\Asal Sayi Listeleme\obj\Debug\net5.0\Asal Sayi Listeleme.AssemblyInfo.cs
+C:\Users\Lenovo\source\repos\Asal Sayi Listeleme\Asal Sayi Listeleme\obj\Debug\net5.0\Asal Sayi Listeleme.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\Asal Sayi Listeleme\Asal Sayi Listeleme\obj\Debug\net5.0\Asal Sayi Listeleme.dll
+C:\Users\Lenovo\source\repos\Asal Sayi Listeleme\Asal Sayi Listeleme\obj\Debug\net5.0\ref\Asal Sayi Listeleme.dll
+C:\Users\Lenovo\source\repos\Asal Sayi Listeleme\Asal Sayi Listeleme\obj\Debug\net5.0\Asal Sayi Listeleme.pdb
+C:\Users\Lenovo\source\repos\Asal Sayi Listeleme\Asal Sayi Listeleme\obj\Debug\net5.0\Asal Sayi Listeleme.genruntimeconfig.cache
