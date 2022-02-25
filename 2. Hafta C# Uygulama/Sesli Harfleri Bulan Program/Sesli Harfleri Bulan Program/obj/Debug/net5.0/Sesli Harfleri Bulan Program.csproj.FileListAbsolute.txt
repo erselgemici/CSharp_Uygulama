@@ -1,0 +1,16 @@
+C:\Users\Lenovo\source\repos\Sesli Harfleri Bulan Program\Sesli Harfleri Bulan Program\bin\Debug\net5.0\Sesli Harfleri Bulan Program.exe
+C:\Users\Lenovo\source\repos\Sesli Harfleri Bulan Program\Sesli Harfleri Bulan Program\bin\Debug\net5.0\Sesli Harfleri Bulan Program.deps.json
+C:\Users\Lenovo\source\repos\Sesli Harfleri Bulan Program\Sesli Harfleri Bulan Program\bin\Debug\net5.0\Sesli Harfleri Bulan Program.runtimeconfig.json
+C:\Users\Lenovo\source\repos\Sesli Harfleri Bulan Program\Sesli Harfleri Bulan Program\bin\Debug\net5.0\Sesli Harfleri Bulan Program.runtimeconfig.dev.json
+C:\Users\Lenovo\source\repos\Sesli Harfleri Bulan Program\Sesli Harfleri Bulan Program\bin\Debug\net5.0\Sesli Harfleri Bulan Program.dll
+C:\Users\Lenovo\source\repos\Sesli Harfleri Bulan Program\Sesli Harfleri Bulan Program\bin\Debug\net5.0\ref\Sesli Harfleri Bulan Program.dll
+C:\Users\Lenovo\source\repos\Sesli Harfleri Bulan Program\Sesli Harfleri Bulan Program\bin\Debug\net5.0\Sesli Harfleri Bulan Program.pdb
+C:\Users\Lenovo\source\repos\Sesli Harfleri Bulan Program\Sesli Harfleri Bulan Program\obj\Debug\net5.0\Sesli Harfleri Bulan Program.csproj.AssemblyReference.cache
+C:\Users\Lenovo\source\repos\Sesli Harfleri Bulan Program\Sesli Harfleri Bulan Program\obj\Debug\net5.0\Sesli Harfleri Bulan Program.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\source\repos\Sesli Harfleri Bulan Program\Sesli Harfleri Bulan Program\obj\Debug\net5.0\Sesli Harfleri Bulan Program.AssemblyInfoInputs.cache
+C:\Users\Lenovo\source\repos\Sesli Harfleri Bulan Program\Sesli Harfleri Bulan Program\obj\Debug\net5.0\Sesli Harfleri Bulan Program.AssemblyInfo.cs
+C:\Users\Lenovo\source\repos\Sesli Harfleri Bulan Program\Sesli Harfleri Bulan Program\obj\Debug\net5.0\Sesli Harfleri Bulan Program.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\Sesli Harfleri Bulan Program\Sesli Harfleri Bulan Program\obj\Debug\net5.0\Sesli Harfleri Bulan Program.dll
+C:\Users\Lenovo\source\repos\Sesli Harfleri Bulan Program\Sesli Harfleri Bulan Program\obj\Debug\net5.0\ref\Sesli Harfleri Bulan Program.dll
+C:\Users\Lenovo\source\repos\Sesli Harfleri Bulan Program\Sesli Harfleri Bulan Program\obj\Debug\net5.0\Sesli Harfleri Bulan Program.pdb
+C:\Users\Lenovo\source\repos\Sesli Harfleri Bulan Program\Sesli Harfleri Bulan Program\obj\Debug\net5.0\Sesli Harfleri Bulan Program.genruntimeconfig.cache
