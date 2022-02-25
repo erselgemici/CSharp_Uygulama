@@ -1,0 +1,16 @@
+C:\Users\Lenovo\source\repos\Girilen Sayi Kadar Metni Yazdirma\Girilen Sayi Kadar Metni Yazdirma\bin\Debug\net5.0\Girilen Sayi Kadar Metni Yazdirma.exe
+C:\Users\Lenovo\source\repos\Girilen Sayi Kadar Metni Yazdirma\Girilen Sayi Kadar Metni Yazdirma\bin\Debug\net5.0\Girilen Sayi Kadar Metni Yazdirma.deps.json
+C:\Users\Lenovo\source\repos\Girilen Sayi Kadar Metni Yazdirma\Girilen Sayi Kadar Metni Yazdirma\bin\Debug\net5.0\Girilen Sayi Kadar Metni Yazdirma.runtimeconfig.json
+C:\Users\Lenovo\source\repos\Girilen Sayi Kadar Metni Yazdirma\Girilen Sayi Kadar Metni Yazdirma\bin\Debug\net5.0\Girilen Sayi Kadar Metni Yazdirma.runtimeconfig.dev.json
+C:\Users\Lenovo\source\repos\Girilen Sayi Kadar Metni Yazdirma\Girilen Sayi Kadar Metni Yazdirma\bin\Debug\net5.0\Girilen Sayi Kadar Metni Yazdirma.dll
+C:\Users\Lenovo\source\repos\Girilen Sayi Kadar Metni Yazdirma\Girilen Sayi Kadar Metni Yazdirma\bin\Debug\net5.0\ref\Girilen Sayi Kadar Metni Yazdirma.dll
+C:\Users\Lenovo\source\repos\Girilen Sayi Kadar Metni Yazdirma\Girilen Sayi Kadar Metni Yazdirma\bin\Debug\net5.0\Girilen Sayi Kadar Metni Yazdirma.pdb
+C:\Users\Lenovo\source\repos\Girilen Sayi Kadar Metni Yazdirma\Girilen Sayi Kadar Metni Yazdirma\obj\Debug\net5.0\Girilen Sayi Kadar Metni Yazdirma.csproj.AssemblyReference.cache
+C:\Users\Lenovo\source\repos\Girilen Sayi Kadar Metni Yazdirma\Girilen Sayi Kadar Metni Yazdirma\obj\Debug\net5.0\Girilen Sayi Kadar Metni Yazdirma.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\source\repos\Girilen Sayi Kadar Metni Yazdirma\Girilen Sayi Kadar Metni Yazdirma\obj\Debug\net5.0\Girilen Sayi Kadar Metni Yazdirma.AssemblyInfoInputs.cache
+C:\Users\Lenovo\source\repos\Girilen Sayi Kadar Metni Yazdirma\Girilen Sayi Kadar Metni Yazdirma\obj\Debug\net5.0\Girilen Sayi Kadar Metni Yazdirma.AssemblyInfo.cs
+C:\Users\Lenovo\source\repos\Girilen Sayi Kadar Metni Yazdirma\Girilen Sayi Kadar Metni Yazdirma\obj\Debug\net5.0\Girilen Sayi Kadar Metni Yazdirma.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\Girilen Sayi Kadar Metni Yazdirma\Girilen Sayi Kadar Metni Yazdirma\obj\Debug\net5.0\Girilen Sayi Kadar Metni Yazdirma.dll
+C:\Users\Lenovo\source\repos\Girilen Sayi Kadar Metni Yazdirma\Girilen Sayi Kadar Metni Yazdirma\obj\Debug\net5.0\ref\Girilen Sayi Kadar Metni Yazdirma.dll
+C:\Users\Lenovo\source\repos\Girilen Sayi Kadar Metni Yazdirma\Girilen Sayi Kadar Metni Yazdirma\obj\Debug\net5.0\Girilen Sayi Kadar Metni Yazdirma.pdb
+C:\Users\Lenovo\source\repos\Girilen Sayi Kadar Metni Yazdirma\Girilen Sayi Kadar Metni Yazdirma\obj\Debug\net5.0\Girilen Sayi Kadar Metni Yazdirma.genruntimeconfig.cache
