@@ -1,0 +1,16 @@
+C:\Users\Lenovo\source\repos\Tek Cift Adet\Tek Cift Adet\bin\Debug\net5.0\Tek Cift Adet.exe
+C:\Users\Lenovo\source\repos\Tek Cift Adet\Tek Cift Adet\bin\Debug\net5.0\Tek Cift Adet.deps.json
+C:\Users\Lenovo\source\repos\Tek Cift Adet\Tek Cift Adet\bin\Debug\net5.0\Tek Cift Adet.runtimeconfig.json
+C:\Users\Lenovo\source\repos\Tek Cift Adet\Tek Cift Adet\bin\Debug\net5.0\Tek Cift Adet.runtimeconfig.dev.json
+C:\Users\Lenovo\source\repos\Tek Cift Adet\Tek Cift Adet\bin\Debug\net5.0\Tek Cift Adet.dll
+C:\Users\Lenovo\source\repos\Tek Cift Adet\Tek Cift Adet\bin\Debug\net5.0\ref\Tek Cift Adet.dll
+C:\Users\Lenovo\source\repos\Tek Cift Adet\Tek Cift Adet\bin\Debug\net5.0\Tek Cift Adet.pdb
+C:\Users\Lenovo\source\repos\Tek Cift Adet\Tek Cift Adet\obj\Debug\net5.0\Tek Cift Adet.csproj.AssemblyReference.cache
+C:\Users\Lenovo\source\repos\Tek Cift Adet\Tek Cift Adet\obj\Debug\net5.0\Tek Cift Adet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\source\repos\Tek Cift Adet\Tek Cift Adet\obj\Debug\net5.0\Tek Cift Adet.AssemblyInfoInputs.cache
+C:\Users\Lenovo\source\repos\Tek Cift Adet\Tek Cift Adet\obj\Debug\net5.0\Tek Cift Adet.AssemblyInfo.cs
+C:\Users\Lenovo\source\repos\Tek Cift Adet\Tek Cift Adet\obj\Debug\net5.0\Tek Cift Adet.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\Tek Cift Adet\Tek Cift Adet\obj\Debug\net5.0\Tek Cift Adet.dll
+C:\Users\Lenovo\source\repos\Tek Cift Adet\Tek Cift Adet\obj\Debug\net5.0\ref\Tek Cift Adet.dll
+C:\Users\Lenovo\source\repos\Tek Cift Adet\Tek Cift Adet\obj\Debug\net5.0\Tek Cift Adet.pdb
+C:\Users\Lenovo\source\repos\Tek Cift Adet\Tek Cift Adet\obj\Debug\net5.0\Tek Cift Adet.genruntimeconfig.cache
