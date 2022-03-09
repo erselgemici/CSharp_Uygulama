@@ -1,0 +1,16 @@
+C:\Users\Lenovo\source\repos\Cumledeki Kelime Sayisini Bulma\Cumledeki Kelime Sayisini Bulma\bin\Debug\net5.0\Cumledeki Kelime Sayisini Bulma.exe
+C:\Users\Lenovo\source\repos\Cumledeki Kelime Sayisini Bulma\Cumledeki Kelime Sayisini Bulma\bin\Debug\net5.0\Cumledeki Kelime Sayisini Bulma.deps.json
+C:\Users\Lenovo\source\repos\Cumledeki Kelime Sayisini Bulma\Cumledeki Kelime Sayisini Bulma\bin\Debug\net5.0\Cumledeki Kelime Sayisini Bulma.runtimeconfig.json
+C:\Users\Lenovo\source\repos\Cumledeki Kelime Sayisini Bulma\Cumledeki Kelime Sayisini Bulma\bin\Debug\net5.0\Cumledeki Kelime Sayisini Bulma.runtimeconfig.dev.json
+C:\Users\Lenovo\source\repos\Cumledeki Kelime Sayisini Bulma\Cumledeki Kelime Sayisini Bulma\bin\Debug\net5.0\Cumledeki Kelime Sayisini Bulma.dll
+C:\Users\Lenovo\source\repos\Cumledeki Kelime Sayisini Bulma\Cumledeki Kelime Sayisini Bulma\bin\Debug\net5.0\ref\Cumledeki Kelime Sayisini Bulma.dll
+C:\Users\Lenovo\source\repos\Cumledeki Kelime Sayisini Bulma\Cumledeki Kelime Sayisini Bulma\bin\Debug\net5.0\Cumledeki Kelime Sayisini Bulma.pdb
+C:\Users\Lenovo\source\repos\Cumledeki Kelime Sayisini Bulma\Cumledeki Kelime Sayisini Bulma\obj\Debug\net5.0\Cumledeki Kelime Sayisini Bulma.csproj.AssemblyReference.cache
+C:\Users\Lenovo\source\repos\Cumledeki Kelime Sayisini Bulma\Cumledeki Kelime Sayisini Bulma\obj\Debug\net5.0\Cumledeki Kelime Sayisini Bulma.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\source\repos\Cumledeki Kelime Sayisini Bulma\Cumledeki Kelime Sayisini Bulma\obj\Debug\net5.0\Cumledeki Kelime Sayisini Bulma.AssemblyInfoInputs.cache
+C:\Users\Lenovo\source\repos\Cumledeki Kelime Sayisini Bulma\Cumledeki Kelime Sayisini Bulma\obj\Debug\net5.0\Cumledeki Kelime Sayisini Bulma.AssemblyInfo.cs
+C:\Users\Lenovo\source\repos\Cumledeki Kelime Sayisini Bulma\Cumledeki Kelime Sayisini Bulma\obj\Debug\net5.0\Cumledeki Kelime Sayisini Bulma.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\Cumledeki Kelime Sayisini Bulma\Cumledeki Kelime Sayisini Bulma\obj\Debug\net5.0\Cumledeki Kelime Sayisini Bulma.dll
+C:\Users\Lenovo\source\repos\Cumledeki Kelime Sayisini Bulma\Cumledeki Kelime Sayisini Bulma\obj\Debug\net5.0\ref\Cumledeki Kelime Sayisini Bulma.dll
+C:\Users\Lenovo\source\repos\Cumledeki Kelime Sayisini Bulma\Cumledeki Kelime Sayisini Bulma\obj\Debug\net5.0\Cumledeki Kelime Sayisini Bulma.pdb
+C:\Users\Lenovo\source\repos\Cumledeki Kelime Sayisini Bulma\Cumledeki Kelime Sayisini Bulma\obj\Debug\net5.0\Cumledeki Kelime Sayisini Bulma.genruntimeconfig.cache
