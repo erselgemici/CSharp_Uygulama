@@ -1,0 +1,16 @@
+C:\Users\Lenovo\Desktop\Kodluyoruz Projelerim\3. Hafta C# Uygulama\Girilen Sayiya Gore Islem\Girilen Sayiya Gore Islem\bin\Debug\net5.0\Girilen Sayiya Gore Islem.exe
+C:\Users\Lenovo\Desktop\Kodluyoruz Projelerim\3. Hafta C# Uygulama\Girilen Sayiya Gore Islem\Girilen Sayiya Gore Islem\bin\Debug\net5.0\Girilen Sayiya Gore Islem.deps.json
+C:\Users\Lenovo\Desktop\Kodluyoruz Projelerim\3. Hafta C# Uygulama\Girilen Sayiya Gore Islem\Girilen Sayiya Gore Islem\bin\Debug\net5.0\Girilen Sayiya Gore Islem.runtimeconfig.json
+C:\Users\Lenovo\Desktop\Kodluyoruz Projelerim\3. Hafta C# Uygulama\Girilen Sayiya Gore Islem\Girilen Sayiya Gore Islem\bin\Debug\net5.0\Girilen Sayiya Gore Islem.runtimeconfig.dev.json
+C:\Users\Lenovo\Desktop\Kodluyoruz Projelerim\3. Hafta C# Uygulama\Girilen Sayiya Gore Islem\Girilen Sayiya Gore Islem\bin\Debug\net5.0\Girilen Sayiya Gore Islem.dll
+C:\Users\Lenovo\Desktop\Kodluyoruz Projelerim\3. Hafta C# Uygulama\Girilen Sayiya Gore Islem\Girilen Sayiya Gore Islem\bin\Debug\net5.0\ref\Girilen Sayiya Gore Islem.dll
+C:\Users\Lenovo\Desktop\Kodluyoruz Projelerim\3. Hafta C# Uygulama\Girilen Sayiya Gore Islem\Girilen Sayiya Gore Islem\bin\Debug\net5.0\Girilen Sayiya Gore Islem.pdb
+C:\Users\Lenovo\Desktop\Kodluyoruz Projelerim\3. Hafta C# Uygulama\Girilen Sayiya Gore Islem\Girilen Sayiya Gore Islem\obj\Debug\net5.0\Girilen Sayiya Gore Islem.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\Kodluyoruz Projelerim\3. Hafta C# Uygulama\Girilen Sayiya Gore Islem\Girilen Sayiya Gore Islem\obj\Debug\net5.0\Girilen Sayiya Gore Islem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Desktop\Kodluyoruz Projelerim\3. Hafta C# Uygulama\Girilen Sayiya Gore Islem\Girilen Sayiya Gore Islem\obj\Debug\net5.0\Girilen Sayiya Gore Islem.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Desktop\Kodluyoruz Projelerim\3. Hafta C# Uygulama\Girilen Sayiya Gore Islem\Girilen Sayiya Gore Islem\obj\Debug\net5.0\Girilen Sayiya Gore Islem.AssemblyInfo.cs
+C:\Users\Lenovo\Desktop\Kodluyoruz Projelerim\3. Hafta C# Uygulama\Girilen Sayiya Gore Islem\Girilen Sayiya Gore Islem\obj\Debug\net5.0\Girilen Sayiya Gore Islem.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\Kodluyoruz Projelerim\3. Hafta C# Uygulama\Girilen Sayiya Gore Islem\Girilen Sayiya Gore Islem\obj\Debug\net5.0\Girilen Sayiya Gore Islem.dll
+C:\Users\Lenovo\Desktop\Kodluyoruz Projelerim\3. Hafta C# Uygulama\Girilen Sayiya Gore Islem\Girilen Sayiya Gore Islem\obj\Debug\net5.0\ref\Girilen Sayiya Gore Islem.dll
+C:\Users\Lenovo\Desktop\Kodluyoruz Projelerim\3. Hafta C# Uygulama\Girilen Sayiya Gore Islem\Girilen Sayiya Gore Islem\obj\Debug\net5.0\Girilen Sayiya Gore Islem.pdb
+C:\Users\Lenovo\Desktop\Kodluyoruz Projelerim\3. Hafta C# Uygulama\Girilen Sayiya Gore Islem\Girilen Sayiya Gore Islem\obj\Debug\net5.0\Girilen Sayiya Gore Islem.genruntimeconfig.cache
