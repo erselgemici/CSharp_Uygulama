@@ -1,0 +1,16 @@
+C:\Users\Lenovo\Desktop\Kodluyoruz Projelerim\3. Hafta C# Uygulama\DizideArama\DizideArama\bin\Debug\net5.0\DizideArama.exe
+C:\Users\Lenovo\Desktop\Kodluyoruz Projelerim\3. Hafta C# Uygulama\DizideArama\DizideArama\bin\Debug\net5.0\DizideArama.deps.json
+C:\Users\Lenovo\Desktop\Kodluyoruz Projelerim\3. Hafta C# Uygulama\DizideArama\DizideArama\bin\Debug\net5.0\DizideArama.runtimeconfig.json
+C:\Users\Lenovo\Desktop\Kodluyoruz Projelerim\3. Hafta C# Uygulama\DizideArama\DizideArama\bin\Debug\net5.0\DizideArama.runtimeconfig.dev.json
+C:\Users\Lenovo\Desktop\Kodluyoruz Projelerim\3. Hafta C# Uygulama\DizideArama\DizideArama\bin\Debug\net5.0\DizideArama.dll
+C:\Users\Lenovo\Desktop\Kodluyoruz Projelerim\3. Hafta C# Uygulama\DizideArama\DizideArama\bin\Debug\net5.0\ref\DizideArama.dll
+C:\Users\Lenovo\Desktop\Kodluyoruz Projelerim\3. Hafta C# Uygulama\DizideArama\DizideArama\bin\Debug\net5.0\DizideArama.pdb
+C:\Users\Lenovo\Desktop\Kodluyoruz Projelerim\3. Hafta C# Uygulama\DizideArama\DizideArama\obj\Debug\net5.0\DizideArama.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\Kodluyoruz Projelerim\3. Hafta C# Uygulama\DizideArama\DizideArama\obj\Debug\net5.0\DizideArama.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Desktop\Kodluyoruz Projelerim\3. Hafta C# Uygulama\DizideArama\DizideArama\obj\Debug\net5.0\DizideArama.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Desktop\Kodluyoruz Projelerim\3. Hafta C# Uygulama\DizideArama\DizideArama\obj\Debug\net5.0\DizideArama.AssemblyInfo.cs
+C:\Users\Lenovo\Desktop\Kodluyoruz Projelerim\3. Hafta C# Uygulama\DizideArama\DizideArama\obj\Debug\net5.0\DizideArama.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\Kodluyoruz Projelerim\3. Hafta C# Uygulama\DizideArama\DizideArama\obj\Debug\net5.0\DizideArama.dll
+C:\Users\Lenovo\Desktop\Kodluyoruz Projelerim\3. Hafta C# Uygulama\DizideArama\DizideArama\obj\Debug\net5.0\ref\DizideArama.dll
+C:\Users\Lenovo\Desktop\Kodluyoruz Projelerim\3. Hafta C# Uygulama\DizideArama\DizideArama\obj\Debug\net5.0\DizideArama.pdb
+C:\Users\Lenovo\Desktop\Kodluyoruz Projelerim\3. Hafta C# Uygulama\DizideArama\DizideArama\obj\Debug\net5.0\DizideArama.genruntimeconfig.cache
