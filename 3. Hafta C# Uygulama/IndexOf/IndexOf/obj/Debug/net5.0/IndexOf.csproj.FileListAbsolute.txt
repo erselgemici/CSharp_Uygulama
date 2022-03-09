@@ -1,0 +1,16 @@
+C:\Users\Lenovo\Desktop\Kodluyoruz Projelerim\3. Hafta C# Uygulama\IndexOf\IndexOf\bin\Debug\net5.0\IndexOf.exe
+C:\Users\Lenovo\Desktop\Kodluyoruz Projelerim\3. Hafta C# Uygulama\IndexOf\IndexOf\bin\Debug\net5.0\IndexOf.deps.json
+C:\Users\Lenovo\Desktop\Kodluyoruz Projelerim\3. Hafta C# Uygulama\IndexOf\IndexOf\bin\Debug\net5.0\IndexOf.runtimeconfig.json
+C:\Users\Lenovo\Desktop\Kodluyoruz Projelerim\3. Hafta C# Uygulama\IndexOf\IndexOf\bin\Debug\net5.0\IndexOf.runtimeconfig.dev.json
+C:\Users\Lenovo\Desktop\Kodluyoruz Projelerim\3. Hafta C# Uygulama\IndexOf\IndexOf\bin\Debug\net5.0\IndexOf.dll
+C:\Users\Lenovo\Desktop\Kodluyoruz Projelerim\3. Hafta C# Uygulama\IndexOf\IndexOf\bin\Debug\net5.0\ref\IndexOf.dll
+C:\Users\Lenovo\Desktop\Kodluyoruz Projelerim\3. Hafta C# Uygulama\IndexOf\IndexOf\bin\Debug\net5.0\IndexOf.pdb
+C:\Users\Lenovo\Desktop\Kodluyoruz Projelerim\3. Hafta C# Uygulama\IndexOf\IndexOf\obj\Debug\net5.0\IndexOf.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\Kodluyoruz Projelerim\3. Hafta C# Uygulama\IndexOf\IndexOf\obj\Debug\net5.0\IndexOf.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Desktop\Kodluyoruz Projelerim\3. Hafta C# Uygulama\IndexOf\IndexOf\obj\Debug\net5.0\IndexOf.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Desktop\Kodluyoruz Projelerim\3. Hafta C# Uygulama\IndexOf\IndexOf\obj\Debug\net5.0\IndexOf.AssemblyInfo.cs
+C:\Users\Lenovo\Desktop\Kodluyoruz Projelerim\3. Hafta C# Uygulama\IndexOf\IndexOf\obj\Debug\net5.0\IndexOf.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\Kodluyoruz Projelerim\3. Hafta C# Uygulama\IndexOf\IndexOf\obj\Debug\net5.0\IndexOf.dll
+C:\Users\Lenovo\Desktop\Kodluyoruz Projelerim\3. Hafta C# Uygulama\IndexOf\IndexOf\obj\Debug\net5.0\ref\IndexOf.dll
+C:\Users\Lenovo\Desktop\Kodluyoruz Projelerim\3. Hafta C# Uygulama\IndexOf\IndexOf\obj\Debug\net5.0\IndexOf.pdb
+C:\Users\Lenovo\Desktop\Kodluyoruz Projelerim\3. Hafta C# Uygulama\IndexOf\IndexOf\obj\Debug\net5.0\IndexOf.genruntimeconfig.cache
