@@ -1,0 +1,16 @@
+C:\Users\Lenovo\Desktop\Kodluyoruz Projelerim\3. Hafta C# Uygulama\Substring\Substring\bin\Debug\net5.0\Substring.exe
+C:\Users\Lenovo\Desktop\Kodluyoruz Projelerim\3. Hafta C# Uygulama\Substring\Substring\bin\Debug\net5.0\Substring.deps.json
+C:\Users\Lenovo\Desktop\Kodluyoruz Projelerim\3. Hafta C# Uygulama\Substring\Substring\bin\Debug\net5.0\Substring.runtimeconfig.json
+C:\Users\Lenovo\Desktop\Kodluyoruz Projelerim\3. Hafta C# Uygulama\Substring\Substring\bin\Debug\net5.0\Substring.runtimeconfig.dev.json
+C:\Users\Lenovo\Desktop\Kodluyoruz Projelerim\3. Hafta C# Uygulama\Substring\Substring\bin\Debug\net5.0\Substring.dll
+C:\Users\Lenovo\Desktop\Kodluyoruz Projelerim\3. Hafta C# Uygulama\Substring\Substring\bin\Debug\net5.0\ref\Substring.dll
+C:\Users\Lenovo\Desktop\Kodluyoruz Projelerim\3. Hafta C# Uygulama\Substring\Substring\bin\Debug\net5.0\Substring.pdb
+C:\Users\Lenovo\Desktop\Kodluyoruz Projelerim\3. Hafta C# Uygulama\Substring\Substring\obj\Debug\net5.0\Substring.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\Kodluyoruz Projelerim\3. Hafta C# Uygulama\Substring\Substring\obj\Debug\net5.0\Substring.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Desktop\Kodluyoruz Projelerim\3. Hafta C# Uygulama\Substring\Substring\obj\Debug\net5.0\Substring.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Desktop\Kodluyoruz Projelerim\3. Hafta C# Uygulama\Substring\Substring\obj\Debug\net5.0\Substring.AssemblyInfo.cs
+C:\Users\Lenovo\Desktop\Kodluyoruz Projelerim\3. Hafta C# Uygulama\Substring\Substring\obj\Debug\net5.0\Substring.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\Kodluyoruz Projelerim\3. Hafta C# Uygulama\Substring\Substring\obj\Debug\net5.0\Substring.dll
+C:\Users\Lenovo\Desktop\Kodluyoruz Projelerim\3. Hafta C# Uygulama\Substring\Substring\obj\Debug\net5.0\ref\Substring.dll
+C:\Users\Lenovo\Desktop\Kodluyoruz Projelerim\3. Hafta C# Uygulama\Substring\Substring\obj\Debug\net5.0\Substring.pdb
+C:\Users\Lenovo\Desktop\Kodluyoruz Projelerim\3. Hafta C# Uygulama\Substring\Substring\obj\Debug\net5.0\Substring.genruntimeconfig.cache
