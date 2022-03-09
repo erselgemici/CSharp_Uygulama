@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Klavyeden Girilen Sayiya Bolunen Sayilar/1.0.0": {
+        "runtime": {
+          "Klavyeden Girilen Sayiya Bolunen Sayilar.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Klavyeden Girilen Sayiya Bolunen Sayilar/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
