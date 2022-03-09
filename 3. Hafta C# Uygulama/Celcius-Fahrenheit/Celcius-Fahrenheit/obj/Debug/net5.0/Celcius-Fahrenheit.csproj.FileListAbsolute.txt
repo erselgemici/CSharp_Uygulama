@@ -1,0 +1,16 @@
+C:\Users\Lenovo\Desktop\Kodluyoruz Projelerim\3. Hafta C# Uygulama\Celcius-Fahrenheit\Celcius-Fahrenheit\bin\Debug\net5.0\Celcius-Fahrenheit.exe
+C:\Users\Lenovo\Desktop\Kodluyoruz Projelerim\3. Hafta C# Uygulama\Celcius-Fahrenheit\Celcius-Fahrenheit\bin\Debug\net5.0\Celcius-Fahrenheit.deps.json
+C:\Users\Lenovo\Desktop\Kodluyoruz Projelerim\3. Hafta C# Uygulama\Celcius-Fahrenheit\Celcius-Fahrenheit\bin\Debug\net5.0\Celcius-Fahrenheit.runtimeconfig.json
+C:\Users\Lenovo\Desktop\Kodluyoruz Projelerim\3. Hafta C# Uygulama\Celcius-Fahrenheit\Celcius-Fahrenheit\bin\Debug\net5.0\Celcius-Fahrenheit.runtimeconfig.dev.json
+C:\Users\Lenovo\Desktop\Kodluyoruz Projelerim\3. Hafta C# Uygulama\Celcius-Fahrenheit\Celcius-Fahrenheit\bin\Debug\net5.0\Celcius-Fahrenheit.dll
+C:\Users\Lenovo\Desktop\Kodluyoruz Projelerim\3. Hafta C# Uygulama\Celcius-Fahrenheit\Celcius-Fahrenheit\bin\Debug\net5.0\ref\Celcius-Fahrenheit.dll
+C:\Users\Lenovo\Desktop\Kodluyoruz Projelerim\3. Hafta C# Uygulama\Celcius-Fahrenheit\Celcius-Fahrenheit\bin\Debug\net5.0\Celcius-Fahrenheit.pdb
+C:\Users\Lenovo\Desktop\Kodluyoruz Projelerim\3. Hafta C# Uygulama\Celcius-Fahrenheit\Celcius-Fahrenheit\obj\Debug\net5.0\Celcius-Fahrenheit.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\Kodluyoruz Projelerim\3. Hafta C# Uygulama\Celcius-Fahrenheit\Celcius-Fahrenheit\obj\Debug\net5.0\Celcius-Fahrenheit.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Desktop\Kodluyoruz Projelerim\3. Hafta C# Uygulama\Celcius-Fahrenheit\Celcius-Fahrenheit\obj\Debug\net5.0\Celcius-Fahrenheit.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Desktop\Kodluyoruz Projelerim\3. Hafta C# Uygulama\Celcius-Fahrenheit\Celcius-Fahrenheit\obj\Debug\net5.0\Celcius-Fahrenheit.AssemblyInfo.cs
+C:\Users\Lenovo\Desktop\Kodluyoruz Projelerim\3. Hafta C# Uygulama\Celcius-Fahrenheit\Celcius-Fahrenheit\obj\Debug\net5.0\Celcius-Fahrenheit.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\Kodluyoruz Projelerim\3. Hafta C# Uygulama\Celcius-Fahrenheit\Celcius-Fahrenheit\obj\Debug\net5.0\Celcius-Fahrenheit.dll
+C:\Users\Lenovo\Desktop\Kodluyoruz Projelerim\3. Hafta C# Uygulama\Celcius-Fahrenheit\Celcius-Fahrenheit\obj\Debug\net5.0\ref\Celcius-Fahrenheit.dll
+C:\Users\Lenovo\Desktop\Kodluyoruz Projelerim\3. Hafta C# Uygulama\Celcius-Fahrenheit\Celcius-Fahrenheit\obj\Debug\net5.0\Celcius-Fahrenheit.pdb
+C:\Users\Lenovo\Desktop\Kodluyoruz Projelerim\3. Hafta C# Uygulama\Celcius-Fahrenheit\Celcius-Fahrenheit\obj\Debug\net5.0\Celcius-Fahrenheit.genruntimeconfig.cache
