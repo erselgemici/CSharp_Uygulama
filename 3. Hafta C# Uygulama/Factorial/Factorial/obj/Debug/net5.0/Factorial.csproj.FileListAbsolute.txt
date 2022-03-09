@@ -1,0 +1,16 @@
+C:\Users\Lenovo\Desktop\Kodluyoruz Projelerim\3. Hafta C# Uygulama\Factorial\Factorial\bin\Debug\net5.0\Factorial.exe
+C:\Users\Lenovo\Desktop\Kodluyoruz Projelerim\3. Hafta C# Uygulama\Factorial\Factorial\bin\Debug\net5.0\Factorial.deps.json
+C:\Users\Lenovo\Desktop\Kodluyoruz Projelerim\3. Hafta C# Uygulama\Factorial\Factorial\bin\Debug\net5.0\Factorial.runtimeconfig.json
+C:\Users\Lenovo\Desktop\Kodluyoruz Projelerim\3. Hafta C# Uygulama\Factorial\Factorial\bin\Debug\net5.0\Factorial.runtimeconfig.dev.json
+C:\Users\Lenovo\Desktop\Kodluyoruz Projelerim\3. Hafta C# Uygulama\Factorial\Factorial\bin\Debug\net5.0\Factorial.dll
+C:\Users\Lenovo\Desktop\Kodluyoruz Projelerim\3. Hafta C# Uygulama\Factorial\Factorial\bin\Debug\net5.0\ref\Factorial.dll
+C:\Users\Lenovo\Desktop\Kodluyoruz Projelerim\3. Hafta C# Uygulama\Factorial\Factorial\bin\Debug\net5.0\Factorial.pdb
+C:\Users\Lenovo\Desktop\Kodluyoruz Projelerim\3. Hafta C# Uygulama\Factorial\Factorial\obj\Debug\net5.0\Factorial.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\Kodluyoruz Projelerim\3. Hafta C# Uygulama\Factorial\Factorial\obj\Debug\net5.0\Factorial.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Desktop\Kodluyoruz Projelerim\3. Hafta C# Uygulama\Factorial\Factorial\obj\Debug\net5.0\Factorial.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Desktop\Kodluyoruz Projelerim\3. Hafta C# Uygulama\Factorial\Factorial\obj\Debug\net5.0\Factorial.AssemblyInfo.cs
+C:\Users\Lenovo\Desktop\Kodluyoruz Projelerim\3. Hafta C# Uygulama\Factorial\Factorial\obj\Debug\net5.0\Factorial.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\Kodluyoruz Projelerim\3. Hafta C# Uygulama\Factorial\Factorial\obj\Debug\net5.0\Factorial.dll
+C:\Users\Lenovo\Desktop\Kodluyoruz Projelerim\3. Hafta C# Uygulama\Factorial\Factorial\obj\Debug\net5.0\ref\Factorial.dll
+C:\Users\Lenovo\Desktop\Kodluyoruz Projelerim\3. Hafta C# Uygulama\Factorial\Factorial\obj\Debug\net5.0\Factorial.pdb
+C:\Users\Lenovo\Desktop\Kodluyoruz Projelerim\3. Hafta C# Uygulama\Factorial\Factorial\obj\Debug\net5.0\Factorial.genruntimeconfig.cache
